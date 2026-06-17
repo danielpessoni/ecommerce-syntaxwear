@@ -1,4 +1,9 @@
 body {
     font-family: var(--fonte-principal);
     color: #333333;
+    background-color: black;
+}
+
+header{
+    background-color: #ffffff;
 }
