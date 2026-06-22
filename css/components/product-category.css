@@ -56,5 +56,11 @@
 .moderno {
     background: url(../../images/products/moderno.jpg) no-repeat center;
     background-size: cover;
+}
 
+
+@media (max-width: 500px){
+    .category-card{
+        width: 100%;
+    }
 }
